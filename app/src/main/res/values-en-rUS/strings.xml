@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Yamba alfian</string>
+    <string name="title_status">Status Update</string>
+    <string name="hint_status">Please, enter your 140 characters status.</string>
+    <string name="button_tweet">tweet</string>
+</resources>

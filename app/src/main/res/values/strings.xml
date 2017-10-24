@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Yamba alfian</string>
+    <string name="title_status">Actualización de Estado</string>
+    <string name="hint_status">Por favor, introduce tu nuevo estado, 140 caracteres.</string>
+    <string name="button_tweet">tweet</string>
+</resources>
